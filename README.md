@@ -39,13 +39,10 @@ Gryglictube to aplikacja mobilna na system Android, umożliwiająca przeglądani
 - Okna komentarzy
 - Okno dodania komentarza (jeżeli użytkownik jest zalogowany)
 
-...
-
-(Dołącz więcej szczegółów na temat widoków)
 
 ## Instalacja i Uruchamianie
 
-1. Sklonuj repozytorium: `git clone https://github.com/twoje/repozytorium.git`
+1. Sklonuj repozytorium: `git clone https://github.com/Matiz229/MK-Gryglictube.git`
 2. Uruchom projekt w Android Studio.
 3. Skonfiguruj połączenie z Firebase.
 4. Zainstaluj wymagane zależności.
@@ -55,13 +52,10 @@ Gryglictube to aplikacja mobilna na system Android, umożliwiająca przeglądani
 
 - Aplikacja wymaga dostępu do internetu.
 - Wymagane jest posiadanie konta użytkownika do pełnego korzystania z funkcji.
-- Zaleca się używanie aplikacji na urządzeniach z systemem Android w wersji X.X.X lub nowszej.
+- Zaleca się używanie aplikacji na urządzeniach z systemem Android w wersji API 28 lub 29.
 
 ## Autor
 
-Tworzone przez [Twoje Imię/Nazwisko/Nick].
+Tworzone przez Mateusz Kaczmarek.
 
-## Licencja
-
-Ten projekt jest objęty licencją [rodzaj licencji]. Zobacz plik LICENSE.md dla szczegółów.
 
